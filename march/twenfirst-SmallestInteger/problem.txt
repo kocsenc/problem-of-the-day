@@ -1,0 +1,7 @@
+Problem of the day
+
+Smallest Integer
+
+#Function that when given 3 integers returns the smallest ingeter of the 3
+without using any comparison operator.
+
