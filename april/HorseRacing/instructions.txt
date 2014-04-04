@@ -1,0 +1,7 @@
+instructions.txt
+
+Welcome to the Friday edition of ProblemotD where we've now sold our startup and retired to a ranch with 25 horses. Luckily we've made friends with the right people and we're told to bring our best 3 race horses to the Kentucky Derby. Since we can only bring 3 horses we decide to race our horses against each other to see which ones are fastest.
+
+The track that the horses will be racing on only has 5 starting gates which means only 5 horses can race each other at one time. This isn't a huge deal except that once we get to the track we realize our stop watch is broken. Now we can only tell what position each horse gets in each race (first - fifth). How many races will it take to find the 3 fastest horses?
+
+For those interested in a programming challenge, instead of 25 horses write a program that solves for X number of horses.
