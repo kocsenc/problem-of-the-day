@@ -16,13 +16,15 @@ def main():
         line = input()
         print("you have inputted: " + line)
         # Listener for ending typewriter
-        if line == "":
+        if line == '':
             start_end_sequence = True
+            print("Started end sequence")
         else:
             start_end_sequence = False
             master_out += (line + "\n")
 
         if start_end_sequence and line == ".":
+            print("You are done here")
             break
 
     f.write(master_out)
@@ -31,3 +33,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
